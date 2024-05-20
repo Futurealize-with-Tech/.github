@@ -26,3 +26,10 @@ FwTのリポジトリを紹介します
 - [fwt-api](https://github.com/Futurealize-with-Tech/fwt-api)：FwTのデータを操作するAPIのコード
 - [route-page](https://github.com/Futurealize-with-Tech/route-page)：卒業メンターさんにバレないようにサイトを広めるためのサイトのコード
 - [.github](https://github.com/Futurealize-with-Tech/.github)：GitHubのリポジトリテンプレートやコーディングにおけるルールなどを記述
+
+## 📨 メッセージ
+このプロジェクトはOSSです！！
+不具合などあればぜひ気軽に`issue`飛ばしてみてください！
+<br />
+<br />
+質問したいことがあれば、[いのれん](https://twitter.com/inoren_lit)まで！（LiT!生ならフォロー返します！)

@@ -1,5 +1,5 @@
 # 🥰 Futurealize with Tech
-略称は【FWT】
+略称は【FwT】
 
 ## 🤩 概要
 卒業メンターにメッセージを共有できるサービス！！
@@ -17,6 +17,15 @@
 
 ## 🌐 デプロイ
 フロントエンド： Vercel
+
+## 📁 リポジトリ
+FwTのリポジトリを紹介します
+
+- (fwt)[https://github.com/Futurealize-with-Tech/fwt]：メッセージを集めるサイトのコード
+- (fwt-mentor)[https://github.com/Futurealize-with-Tech/fwt-mentor]：卒業メンターさんがメッセージを集めるためのサイトのコード
+- (fwt-api)[https://github.com/Futurealize-with-Tech/fwt-api]：FwTのデータを操作するAPIのコード
+- (route-page)[https://github.com/Futurealize-with-Tech/route-page]：卒業メンターさんにバレないようにサイトを広めるためのサイトのコード
+- (.github)[https://github.com/Futurealize-with-Tech/.github]：GitHubのリポジトリテンプレートやコーディングにおけるルールなどを記述
 
 ## ⚙️ 環境変数
 使っている環境変数は`Supabase`で使う以下の二つです。

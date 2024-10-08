@@ -11,7 +11,7 @@
 - `Next.js` 14.0.4
 - `TypeScript`
 - `SCSS` (スタイリング)
-- `Supabase` (バックエンド)
+- `Supabase` (DB)
 - `Prisma` (ORM)
 - `framer-motion` （アニメーション）
 
